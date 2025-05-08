@@ -29,7 +29,7 @@ requirements_test = read_requirements("test.txt")
 
 setup(
     name="trigram-tokenizer",
-    url="https://github.com/Aleph-Alpha/trigrams", 
+    url="https://github.com/Aleph-Alpha-Research/trigrams", 
     author="Samuel Weinbach",
     author_email="requests@aleph-alpha-ip.ai",
     install_requires=[requirements_base],
